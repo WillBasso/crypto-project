@@ -12,7 +12,7 @@
 
 <img src="./screenshots/crypto-tracker-screenshot.png" alt="Crypto Tracker" width="500">
 
-## 🚀 [Live Demo](your-render-url-here)
+## 🚀 [Live Demo](https://crypto-project-lyul.onrender.com/)
 
 ## 🎯 Learning Objectives
 
